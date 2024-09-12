@@ -13,6 +13,7 @@ public class AppTest {
     public void inserir() {
         BinarySearchTree b = new BinarySearchTree();
         b.insereElemento(1);
+        b.insereElemento(2);
         b.insereElemento(3);
         b.insereElemento(4);
         b.insereElemento(5);
